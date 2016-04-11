@@ -1,0 +1,24 @@
+div {
+	padding: 15px;
+	/*display:inline-block;*/
+}
+
+fieldset {
+	/*display: flex;*/
+}
+
+.form {
+	float: left;
+}
+
+label {
+	display: block;
+}
+
+select {
+	min-width: 100px;
+}
+
+select[name="handling"] {
+	min-width: 200px;
+}
